@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Real-HOME-WORK</string>
+    <string name="anniu">按钮</string>
+    <string name="Account">请输入账户</string>
+    <string name="password">请输入密码</string>
+    <string name="bit_qr">你点击了扫一扫</string>
+    <string name="bit_back">已返回上一层</string>
+</resources>
